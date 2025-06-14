@@ -1,5 +1,3 @@
-# QuarTrend
-
 AI-first infrastructure for Retail trading.
 
 Scalable systems for real-time market analysis, forecasting, and execution.  
