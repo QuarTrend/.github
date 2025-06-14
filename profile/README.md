@@ -1,6 +1,6 @@
 # QuarTrend
 
-AI-first infrastructure for precision trading.
+AI-first infrastructure for Retail trading.
 
 Scalable systems for real-time market analysis, forecasting, and execution.  
 Combines institutional-grade analytics, programmable strategies, and low-latency connectivity.  
